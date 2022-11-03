@@ -16,7 +16,7 @@ import java.math.BigInteger;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name = "SYSTEM_ACCOUNT")
+@Table(name = "SYSTEM_ACCOUNTS")
 public class SystemAccountEntity extends BaseDomain {
 
     @Id
