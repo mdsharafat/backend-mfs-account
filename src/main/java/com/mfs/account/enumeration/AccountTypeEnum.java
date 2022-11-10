@@ -10,7 +10,7 @@ public enum AccountTypeEnum {
     DH("2"),
     AG("3"),
     CU("4"),
-    SA("5");
+    AC("5");
 
     private String val;
 

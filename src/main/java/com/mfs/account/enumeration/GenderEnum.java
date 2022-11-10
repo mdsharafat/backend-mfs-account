@@ -1,7 +1,5 @@
 package com.mfs.account.enumeration;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-
 import java.util.HashMap;
 import java.util.Map;
 
